@@ -17,4 +17,4 @@ Pulls Formula 1 constructor standings and race results (2014–2024) from the Jo
 pandas, matplotlib, seaborn, requests
 
 ## Author
-Ilanith Nizard — [The Draft](https://thedrafthq.substack.com)
+Ilanith Nizard — [TheDraft](https://thedrafthq.substack.com)
